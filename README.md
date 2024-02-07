@@ -4,7 +4,7 @@ As the global population ages, the impact of cardiovascular diseases (CVDs) on t
 
 # Research Focus:
 
-# Grading factors influencing strokes across different age groups.
+Grading factors influencing strokes across different age groups.
 Analyzing oversampled data to identify consistent patterns using various models (Logistic, Decision Tree, DNN, and Random Forest).
 Examining lifestyle factors such as smoking habits, BMI, and other variables in the context of CVDs and strokes.
 
